@@ -5352,6 +5352,7 @@ textarea.form-control-lg {
   justify-content: flex-end;
   padding: 0.75rem;
   border-top: 1px solid #dee2e6;
+  background-color: #0480be;
 }
 .modal-footer > * {
   margin: 0.25rem;
